@@ -1,0 +1,14 @@
+.heading {
+    width: 90%;
+    font-size: 28px;
+}
+
+#result,
+#camera {
+    border: 7px dashed skyblue;
+    width: 350px;
+    height: 300px;
+}
+#result_Accuracy, #result_image {
+    color: goldenrod;
+}
